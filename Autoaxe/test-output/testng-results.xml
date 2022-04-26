@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T13:18:35 PDT" name="Default suite" finished-at="2022-04-22T13:18:40 PDT" duration-ms="4574">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T13:18:35 PDT" name="Default test" finished-at="2022-04-22T13:18:40 PDT" duration-ms="4574">
+      <class name="axetestcases.testcaseone">
+        <test-method signature="checkAccessibility()[pri:0, instance:axetestcases.testcaseone@1ab3a8c8]" started-at="2022-04-22T13:18:35 PDT" name="checkAccessibility" finished-at="2022-04-22T13:18:40 PDT" duration-ms="4537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccessibility -->
+      </class> <!-- axetestcases.testcaseone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
